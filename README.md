@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachel (she/her)</h1>
 <h3 align="center">Full stack developer 👩‍💻, former Zookeeper🦊 and Embryologist 💉</h3>
 
-- 🔭 I’m currently working on **completing both the Front End and Back End bootcamps with Promineo Tech! Don't ask which I like better, it changes hourly! Next up for a personal project is my portfolio site. Coming soon!**
+- 🔭 I’m currently working on **completing both the Front End and Back End bootcamps with Promineo Tech! Don't ask which I like better, it changes hourly! Next up for a personal project is my portfolio site. Coming soon 🤓**
 
 - 🌱 I’m currently learning **React, React-router, Springboot, J-unit testing, JPA. Next on my list to tackle is Python.**
 
