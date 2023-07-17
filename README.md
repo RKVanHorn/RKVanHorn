@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **R_VanHorn@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bKINGgMUYjRTD9qWi7uYeBnR7sOZ3yX7/view?usp=sharing](https://drive.google.com/file/d/1bKINGgMUYjRTD9qWi7uYeBnR7sOZ3yX7/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bKINGgMUYjRTD9qWi7uYeBnR7sOZ3yX7/view?usp=sharing)
 
 - ⚡ Fun fact **I am passionate about transgender rights and protecting trans kids 🏳️‍⚧️ I'm OBSESSED with hockey. 🏒 My teams are the Detroit Red Wings 🐙 and the Vegas Golden Knights ⚔️**
 
