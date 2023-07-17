@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **just about anything. I'd love to get more code experience.**
 
-- 💬 Ask me about **My kids, dogs, animals I've worked with, my favorite books, what project I'm working on.**
+- 💬 Ask me about **my kids, my pets, animals I've worked with, my favorite books, hockey, what project I'm working on.**
 
 - 📫 How to reach me **R_VanHorn@outlook.com**
 
