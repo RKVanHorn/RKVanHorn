@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rachel (she/her)</h1>
 <h3 align="center">Full stack developer 👩‍💻, former Zookeeper🦊 and Embryologist 💉</h3>
 
-- 🔭 I’m currently working on **a Chingu Voyage with several other developers! Can't wait to share the result! I completed my final project for the Back End bootcamp with Promineo Tech which can be viewed in my repos! My front end final project is live [HERE](https://rkvanhorn-livinglasvegas.netlify.app/)  🤓**
+- 🔭 I’m currently working on **Advent of Code 2023! I completed my final project for the Back End bootcamp with Promineo Tech which can be viewed in my repos! My front end final project is live [HERE](https://rkvanhorn-livinglasvegas.netlify.app/)  🤓**
 
-- 🌱 I’m currently learning **How to work with Git and GitHub, React, React-router, Springboot, J-unit testing, JPA. Next on my list to tackle is Python.**
+- 🌱 I’m currently learning **How to be a better job searcher!**
 
 - 👯 I’m looking to collaborate on **just about anything. I'd love to get more code experience.**
 
